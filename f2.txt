@@ -1,2 +1,3 @@
 This file is created in a Repo which has been cloned from gitHub of illustriousman100@gmail.com
-This line is intentionally written in github to arise a merge conflict
+This is a new line
+
