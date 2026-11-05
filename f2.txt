@@ -1,3 +1,6 @@
 This file is created in a Repo which has been cloned from gitHub of illustriousman100@gmail.com
+<<<<<<< HEAD
 This is a new line
 
+=======
+>>>>>>> bf373def4d08e69844ea8305cfa91d12350d34ca
